@@ -1,6 +1,6 @@
 {
   "name": "react-native-segmented-android",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "a high imitation of iOS segmented Controls",
   "main": "AndroidSegmented.js",
   "scripts": {
@@ -19,6 +19,6 @@
   "author": "zzyyppqq",
   "license": "ISC",
   "peerDependencies": {
-    "react-native": ">= 0.18.0"
+    "react-native": ">= 0.33.0"
   }
 }
